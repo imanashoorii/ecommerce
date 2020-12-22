@@ -9,4 +9,8 @@ Install *requirement.txt* in your virtual environment wih :
 **python manage.py makemigrations**
 
 **python manage.py migrate**
- 
+
+
+
+
+This template is not over yet.!! 
