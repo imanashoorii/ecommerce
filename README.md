@@ -13,4 +13,4 @@ Install *requirement.txt* in your virtual environment wih :
 
 
 
-This template is not over yet.!! 
+This template is not over yet.!! but you can use it and make changes
