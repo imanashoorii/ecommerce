@@ -1,1 +1,1 @@
-# ecommerce
+# E-Commerce Web Template
